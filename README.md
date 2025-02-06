@@ -17,9 +17,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rudreshvyas07&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rudreshvyas07&layout=compact&theme=tokyonight)
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
