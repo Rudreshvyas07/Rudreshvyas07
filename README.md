@@ -19,7 +19,7 @@
 - 🔭 Exploring **Flutter, Git, and Open-Source Contributions**
 - 🏸 I love playing **Badminton** and chilling with some **TV shows**
 
-## 🧰 Tech Stack (with 3D/Moving Icons)
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50px" />
