@@ -1,77 +1,33 @@
 <!-- TITLE -->
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">A passionate Developer from India</h3>
+## Hi there! I'm [Rudresh Vyas] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<!-- BADGES & STATS -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Open+Source+Contributor;Tech+Lover+%F0%9F%A4%96" alt="Typing SVG" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat)
 
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
-  </a>
-</p>
-
----
-
-### 🧑‍💻 About Me
-
-- 🔭 I’m currently working on **a cool open-source project**
-- 🌱 I’m currently learning **Next.js and GraphQL**
-- 💬 Ask me about **React, Node.js, MongoDB**
-- 📫 How to reach me: [your.email@example.com](mailto:your.email@example.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving puzzles and playing chess ♟️
-
----
+### 🚀 About Me
+- 🎓 I’m currently studying **Information Technology**.
+- 💻 Passionate about **Web Development, AI, and C++**.
+- 🔍 Exploring **Git, Flutter, and AI topics**.
+- ⚡ Fun Fact: I love playing **badminton** 🏸 and watching TV 📺.
 
 ### 🛠️ Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,html,css,tailwind,figma,vscode,github,python" />
-</p>
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Rudreshvyas07&show_icons=true&theme=tokyonight)
 
----
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rudreshvyas07&layout=compact&theme=tokyonight)
 
-### 📈 GitHub Stats
+### 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
-</p>
+### 🎯 Current Projects
+- 🏥 Working on **Care Sync** - A healthcare management system.
+- 🌐 Learning **Web Development** and enhancing **GitHub workflow**.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
-</p>
-
----
-
-### 🔗 Connect with me
-
-<p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-  <a href="https://twitter.com/yourusername" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" height="30" /></a>
-  <a href="https://instagram.com/yourusername" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
-</p>
-
----
-
-### 🧠 Fun Quote
-
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
-
----
-
-### 🐍 GitHub Contribution Snake (just for fun)
-
-![snake gif](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### ✨ Visitor Badge
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/yourusername/count.svg" />
-</p>
-
+Thanks for visiting! 😊 pls update my profile like him
